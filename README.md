@@ -28,7 +28,7 @@ def circulate():
 
 ## Output:
 
-![Output](/Circulate-the-values-of-N-variables/circulate.png)
+![circulate.png](/Circulate-the-values-of-N-variables/circulate.png)
 
 ## Result:
 The circulating values of N numbers are successfully executed!
